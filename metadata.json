@@ -1,0 +1,5 @@
+{
+  "name": "Welcome to your Library",
+  "description": "A comprehensive book library explorer powered by the Open Library API, allowing users to search millions of books and authors.",
+  "requestFramePermissions": []
+}
